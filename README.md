@@ -9,6 +9,9 @@
 I am a passionate technologist with a strong focus on **Cloud Technology**, **Cybersecurity**, and **Digital Forensics**. Currently pursuing a B.Tech in Cloud Computing, I have over 7+ years of hands-on experience with **Darkweb investigations**, A Middle Level **Python programming**, and advanced forensic techniques. My skillset includes ethical hacking and a diverse set of security tools.
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/yottajunaid=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ### 🛠️ Skills & Technologies
 
