@@ -10,8 +10,7 @@ I am a passionate technologist with a strong focus on **Cloud Technology**, **Cy
 
 ---
 
-<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/yottajunaid.png" alt="Your Image Badge" /> -->
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4025438" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/yottajunaid.png" alt="Your Image Badge" />
 
 ---
 
