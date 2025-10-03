@@ -2,7 +2,10 @@
 
 <img width="420" height="146" alt="image" src="https://github.com/user-attachments/assets/878b0b3b-d6c9-4fc8-bac7-2cb839ba0686" /> <a href="https://yottajunaid.github.io/portfolio/"> <img height="146" align="right" src="https://imgs.search.brave.com/x1igld-bH9JtCRY4Jof3Gdpulo1KRIz8bk26RAFOiSM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzM1LzIvcG9ydGZv/bGlvLXBsdXMtYmFu/a2luZy1zb2Z0d2Fy/ZS1sb2dvLXBuZ19z/ZWVrbG9nby0zNTQx/MjAucG5n" /> </a>
 
-### 🌐 B.Tech in Cloud Technology | 🕵️‍♂️ TOR Forensics | 🔐 Cybersecurity | <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/86f338f0-5c99-4c1b-8e61-606e50c92800" /> Dark Web
+**🌐 B.Tech in Cloud Technology |** <br>
+**🕵️‍♂️ TOR Forensics |** <br>
+**🔐 Cybersecurity |** <br>
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/86f338f0-5c99-4c1b-8e61-606e50c92800" /> **Dark Web |** <br>
 
 
 
@@ -14,7 +17,7 @@ I am a passionate technologist with a strong focus on **Darkweb** and **Cybersec
 
 ---
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/yottajunaid.png" alt="Tryhackme" /> <img height="125" width="125" src="https://camo.githubusercontent.com/99b33b36df693b62c868b8985047d6a3187e7c968af875f64c532e9d836ed9ea/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" /> <img height="125" width="125" src="https://camo.githubusercontent.com/37969586d7cf7365aa89673a8289c7c7848e9188402ee1a91328632a39d12cbd/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" /> <img src="https://github.com/user-attachments/assets/c15e357c-e5a9-493c-b183-3261722d42ca" alt="giphy" width="125" height="125">
+<img src="https://tryhackme-badges.s3.amazonaws.com/yottajunaid.png" alt="Tryhackme" /> <img height="110" width="110" src="https://camo.githubusercontent.com/99b33b36df693b62c868b8985047d6a3187e7c968af875f64c532e9d836ed9ea/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" /> <img height="110" width="110" src="https://camo.githubusercontent.com/37969586d7cf7365aa89673a8289c7c7848e9188402ee1a91328632a39d12cbd/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" /> <img src="https://github.com/user-attachments/assets/c15e357c-e5a9-493c-b183-3261722d42ca" alt="giphy" width="110" height="110">
 
 
 
