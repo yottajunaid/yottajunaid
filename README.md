@@ -1,16 +1,22 @@
 # Hi, I'm Junaid Quadri 👋
 
-### 🌐 B.Tech in Cloud Technology | 🕵️‍♂️ TOR Forensics | 🖥️ Digital Forensics | 💻 Python Developer | 🔐 Cybersecurity & Cloud Enthusiast
+<img width="420" height="146" alt="image" src="https://github.com/user-attachments/assets/878b0b3b-d6c9-4fc8-bac7-2cb839ba0686" />
+
+### 🌐 B.Tech in Cloud Technology | 🕵️‍♂️ TOR Forensics | 🔐 Cybersecurity | <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/86f338f0-5c99-4c1b-8e61-606e50c92800" /> Dark Web
+
+
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a passionate technologist with a strong focus on **Cloud Technology**, **Cybersecurity**, and **Digital Forensics**. Currently pursuing a B.Tech in Cloud Computing, I have over 7+ years of hands-on experience with **Darkweb investigations**, A Middle Level **Python programming**, and advanced forensic techniques. My skillset includes ethical hacking and a diverse set of security tools.
+I am a passionate technologist with a strong focus on **Darkweb** and **Cybersecurity**. Currently pursuing a B.Tech in Cloud Computing, I have over 7+ years of hands-on with **Darkweb investigations**, A Middle Level **Python programming**. My skillset includes ethical hacking and a diverse set of security tools.
 
 ---
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/yottajunaid.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/yottajunaid.png" alt="Your Image Badge" /> <img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/f5809c55-d110-4950-a4d4-c6c8180531ee" /> <img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/5e15206e-9fce-4802-97bc-91e747b850af" />
+
+
 
 ---
 
@@ -23,28 +29,12 @@ I am a passionate technologist with a strong focus on **Cloud Technology**, **Cy
   </a>
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=yottajunaid&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
-  </a> 
-</p>
-
 <!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/MarieLynneBlock/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=yottajunaid&theme=nord&&column=9&row=1" />
   </a>
 </p>
-
----
-
-### 🛠️ Skills & Technologies
-
-- **Programming:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-- **Cybersecurity & Forensics:** Darkweb Investigations, Memory Forensics, Network Forensics, FTK, Ethical Hacking
-- **Cloud & Virtualization:** ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) Cloud Computing
-- **Web Development:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 ---
 
@@ -55,15 +45,7 @@ I am a passionate technologist with a strong focus on **Cloud Technology**, **Cy
 
 ---
 
-### 🎯 Goals
-
-- Master **Cloud Mining** and **Crypto Mining**.
-- Advance in **Tor Forensics** and **Network Security**.
-
----
-
 ### 📬 Let’s Connect!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-quadri-084279241/)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/yottajunaid)
-
+  
 ---
