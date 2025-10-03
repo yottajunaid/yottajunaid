@@ -1,6 +1,6 @@
 # Hi, I'm Junaid Quadri 👋
 
-<img width="420" height="146" alt="image" src="https://github.com/user-attachments/assets/878b0b3b-d6c9-4fc8-bac7-2cb839ba0686" />
+<img width="420" height="146" alt="image" src="https://github.com/user-attachments/assets/878b0b3b-d6c9-4fc8-bac7-2cb839ba0686" /> <a href="https://yottajunaid.github.io/portfolio/"> <img height="146" align="right" src="https://imgs.search.brave.com/x1igld-bH9JtCRY4Jof3Gdpulo1KRIz8bk26RAFOiSM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzM1LzIvcG9ydGZv/bGlvLXBsdXMtYmFu/a2luZy1zb2Z0d2Fy/ZS1sb2dvLXBuZ19z/ZWVrbG9nby0zNTQx/MjAucG5n" /> </a>
 
 ### 🌐 B.Tech in Cloud Technology | 🕵️‍♂️ TOR Forensics | 🔐 Cybersecurity | <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/86f338f0-5c99-4c1b-8e61-606e50c92800" /> Dark Web
 
