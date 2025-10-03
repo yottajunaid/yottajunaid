@@ -14,7 +14,7 @@ I am a passionate technologist with a strong focus on **Darkweb** and **Cybersec
 
 ---
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/yottajunaid.png" alt="Your Image Badge" /> <img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/f5809c55-d110-4950-a4d4-c6c8180531ee" /> <img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/5e15206e-9fce-4802-97bc-91e747b850af" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/yottajunaid.png" alt="Your Image Badge" /> <img height="125" width="125" src="https://camo.githubusercontent.com/99b33b36df693b62c868b8985047d6a3187e7c968af875f64c532e9d836ed9ea/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" /> <img height="125" width="125" src="https://camo.githubusercontent.com/37969586d7cf7365aa89673a8289c7c7848e9188402ee1a91328632a39d12cbd/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" /> <img src="https://github.com/user-attachments/assets/c15e357c-e5a9-493c-b183-3261722d42ca" alt="giphy" width="125" height="125">
 
 
 
