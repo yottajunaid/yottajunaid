@@ -5,7 +5,7 @@
 **🌐 B.Tech in Cloud Technology** <br>
 **🕵️‍♂️ TOR Forensics** <br>
 **🔐 Cybersecurity** <br>
-**💀Dark Web** <br>
+**💀 Dark Net** <br>
 
 
 
@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate technologist with a strong focus on **Darkweb** and **Cybersecurity**. Currently pursuing a B.Tech in Cloud Computing, I have over 7+ years of hands-on with **Darkweb investigations**, A Middle Level **Python programming**. My skillset includes ethical hacking and a diverse set of security tools.
+I am a passionate technologist with a strong focus on **DarkNet** and **Cybersecurity**. Currently pursuing a B.Tech in Cloud Computing, I have over 7+ years of hands-on with **DarkNet investigations**, A Middle Level **Python programming**. My skillset includes ethical hacking and a diverse set of security tools.
 
 ---
 
@@ -43,8 +43,10 @@ I am a passionate technologist with a strong focus on **Darkweb** and **Cybersec
 
 ### 🔍 Current Focus
 
+- **Master DarkNet**: Exploring new technologies in **DarkNet**.
 - **Tor Forensics**: Diving deep into anonymized networks and creating solutions for the Darkweb.
 - **Cloud Mining & Blockchain**: Exploring new technologies in **crypto mining**.
+- **CEH**: Mastering the Art of **CyberSecurity**.
 
 ---
 
