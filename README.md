@@ -31,7 +31,7 @@ I am a passionate technologist with a strong focus on **DarkNet** and **Cybersec
     <img src="https://streak-stats.demolab.com?user=yottajunaid&theme=nord&border_radius=4.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&card_height=200"/>
   </a>
 </p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=yottajunaid&theme=dark&border_radius=6)](https://git.io/streak-stats)
 <!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/MarieLynneBlock/github-profile-trophy">
