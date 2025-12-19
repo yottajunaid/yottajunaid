@@ -26,18 +26,20 @@ I am a passionate technologist with a strong focus on **DarkNet** and **Cybersec
 <!-- Stats Dashboard -->
 
 <!-- Streak -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=yottajunaid&theme=nord&border_radius=4.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&card_height=200"/>
   </a>
-</p>
+</p> -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=yottajunaid&theme=dark&border_radius=6)](https://git.io/streak-stats)
+
 <!-- GitHub Trophies -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/MarieLynneBlock/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=yottajunaid&theme=nord&&column=9&row=1" />
   </a>
-</p>
+</p> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=yottajunaid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
