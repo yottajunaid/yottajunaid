@@ -1,6 +1,6 @@
-# Hi, I'm Junaid Quadri 👋
+# Hi, I'm Junaid Quadri 👋 Founder of [Master-Darknet](https://yottajunaid.github.io/Master-Darknet/) Initiative
 
-<img width="420" height="146" alt="image" src="https://github.com/user-attachments/assets/878b0b3b-d6c9-4fc8-bac7-2cb839ba0686" /> <a href="https://yottajunaid.github.io/portfolio/"> <img height="146" align="right" src="https://imgs.search.brave.com/x1igld-bH9JtCRY4Jof3Gdpulo1KRIz8bk26RAFOiSM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzM1LzIvcG9ydGZv/bGlvLXBsdXMtYmFu/a2luZy1zb2Z0d2Fy/ZS1sb2dvLXBuZ19z/ZWVrbG9nby0zNTQx/MjAucG5n" /> </a>
+<img width="420" height="146" alt="image" src="https://github.com/user-attachments/assets/878b0b3b-d6c9-4fc8-bac7-2cb839ba0686" /> <img src="https://github.com/user-attachments/assets/c15e357c-e5a9-493c-b183-3261722d42ca" align="right" alt="giphy" width="110" height="110"> <a href="https://yottajunaid.github.io/portfolio/"> <img height="146" align="right" src="https://imgs.search.brave.com/x1igld-bH9JtCRY4Jof3Gdpulo1KRIz8bk26RAFOiSM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzM1LzIvcG9ydGZv/bGlvLXBsdXMtYmFu/a2luZy1zb2Z0d2Fy/ZS1sb2dvLXBuZ19z/ZWVrbG9nby0zNTQx/MjAucG5n" /> </a>
 
 **🌐 B.Tech in Cloud Technology** <br>
 **🕵️‍♂️ TOR Forensics** <br>
@@ -13,14 +13,10 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate technologist with a strong focus on **DarkNet** and **Cybersecurity**. Currently pursuing a B.Tech in Cloud Computing, I have over 7+ years of hands-on with **DarkNet investigations**, A Middle Level **Python programming**. My skillset includes ethical hacking and a diverse set of security tools.
+I am a passionate technologist with a strong focus on **DarkNet** and **Cybersecurity**. Currently pursuing a B.Tech in Cloud Computing, I have over 7+ years of hands-on with **DarkNet Methodologies**, A Middle Level **Python programming**. My skillset includes ethical hacking and a diverse set of security tools.
 
 ---
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/yottajunaid.png" alt="Tryhackme" /> <img height="110" width="110" src="https://camo.githubusercontent.com/99b33b36df693b62c868b8985047d6a3187e7c968af875f64c532e9d836ed9ea/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" /> <img height="110" width="110" src="https://camo.githubusercontent.com/37969586d7cf7365aa89673a8289c7c7848e9188402ee1a91328632a39d12cbd/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" /> <img src="https://github.com/user-attachments/assets/c15e357c-e5a9-493c-b183-3261722d42ca" alt="giphy" width="110" height="110">
-
-
-
+## People Interested in adding content to Master-Darknet Site can contact me at (https://yottajunaid.github.io/Master-Darknet/contact/)
 ---
 
 <!-- Stats Dashboard -->
@@ -33,26 +29,5 @@ I am a passionate technologist with a strong focus on **DarkNet** and **Cybersec
 </p> -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=yottajunaid&theme=dark&border_radius=6)](https://git.io/streak-stats)
 
-<!-- GitHub Trophies -->
-<!-- <p align="center">
-  <a href="https://github.com/MarieLynneBlock/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yottajunaid&theme=nord&&column=9&row=1" />
-  </a>
-</p> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=yottajunaid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
-### 🔍 Current Focus
-
-- **Master DarkNet**: Exploring new technologies in **DarkNet**.
-- **Tor Forensics**: Diving deep into anonymized networks and creating solutions for the Darkweb.
-- **Cloud Mining & Blockchain**: Exploring new technologies in **crypto mining**.
-- **CEH**: Mastering the Art of **CyberSecurity**.
-
----
-
-### 📬 Let’s Connect!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-quadri-084279241/)
-  
----
